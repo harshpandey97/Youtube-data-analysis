@@ -1,0 +1,7 @@
+channel_id,name,title,channel_type,subscriber_count,video_count,view_count
+UC_aajtak,AajTak,Aaj Tak,mainstream_news,45200000,189000,32000000000
+UC_ndtv,NDTV,NDTV,mainstream_news,12100000,210000,9800000000
+UC_republic,RepublicWorld,Republic World,mainstream_news,9600000,165000,7200000000
+UC_dhruv,DhruvRathee,Dhruv Rathee,independent_creator,26800000,890,3900000000
+UC_deshbhakt,TheDeshbhakt,The Deshbhakt,independent_creator,6400000,640,980000000
+UC_beerbiceps,RanveerAllahbadia,BeerBiceps,independent_creator,8100000,1500,1600000000
